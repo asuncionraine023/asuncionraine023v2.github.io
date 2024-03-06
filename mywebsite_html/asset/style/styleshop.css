@@ -5,8 +5,8 @@ a:hover {
 img:hover { 
     box-shadow: 2px 2px 10px 10px rgba(0, 0,0,.8);
     cursor: pointer;
-    width: 380px;
-    height: 350px;
+    width: 265px;
+    height: 179px;
     transition: 1s;
     !important
 }
@@ -16,4 +16,3 @@ a {
     text-decoration: none;
 
 } 
-
